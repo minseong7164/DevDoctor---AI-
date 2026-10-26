@@ -1,0 +1,6 @@
+{
+  "name": "DevDoctor - AI 전공 코딩 과제 디버거 & 리뷰어",
+  "description": "실시간 AI 오류 원인 분석, 코드 자동 수정 시뮬레이션, 학습 대시보드, 커뮤니티 및 챌린지 랭킹을 지원하는 올인원 코딩 학습 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
